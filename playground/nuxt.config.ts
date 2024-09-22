@@ -7,7 +7,7 @@ export default defineNuxtConfig({
     '../src/module',
   ],
 
-  mwmNuxtModuleTemplate: {},
+  nuxtEslintVsCodeJsDebugTerminalError4: {},
 
   devtools: { enabled: true },
 })

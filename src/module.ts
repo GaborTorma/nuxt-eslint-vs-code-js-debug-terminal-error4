@@ -5,8 +5,8 @@ export interface ModuleOptions {}
 
 export default defineNuxtModule<ModuleOptions>({
   meta: {
-    name: 'mwm-nuxt-module-template',
-    configKey: 'mwmNuxtModuleTemplate',
+    name: 'nuxt-eslint-vs-code-js-debug-terminal-error4',
+    configKey: 'nuxtEslintVsCodeJsDebugTerminalError4',
     compatibility: {
       nuxt: '^3.0.0',
     },
